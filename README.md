@@ -10,3 +10,8 @@ ok, sembra comprensibile
 fine di tutto
 
 k
+
+Introduzione:
+
+- uno
+- due
